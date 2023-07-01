@@ -1,0 +1,182 @@
+[
+    {
+        "fullName": "John Doe",
+        "designation": "Software Engineer",
+        "emailaddress": "johndoe@example.com",
+        "dob": "10/15/1990",
+        "contactnumber": "1234567890",
+        "city": "New York",
+        "profilepicture": "https://th.bing.com/th/id/OIP.m96pdGoalU4s50m39aVvNwHaHn?w=196&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "twitter": "https://twitter.com/johndoe",
+        "facebook": "https://www.facebook.com/johndoe",
+        "instagram": "https://www.instagram.com/johndoe",
+        "other": "https://www.behance.net/johndoe"
+    },
+    {
+        "fullName": "Jane Smith",
+        "designation": "Graphic Designer",
+        "emailaddress": "janesmith@example.com",
+        "dob": "05/20/1985",
+        "contactnumber": "9876543210",
+        "city": "Los Angeles",
+        "profilepicture": "https://th.bing.com/th/id/OIP.xmVyd_u0_rR3QtA3DaeLoAHaHa?w=203&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/janesmith",
+        "twitter": "https://twitter.com/janesmith",
+        "facebook": "https://www.facebook.com/janesmith",
+        "instagram": "https://www.instagram.com/janesmith",
+        "other": "https://www.behance.net/janesmith"
+    },
+    {
+        "fullName": "Alex Johnson",
+        "designation": "Product Manager",
+        "emailaddress": "alexjohnson@example.com",
+        "dob": "12/08/1978",
+        "contactnumber": "9870123456",
+        "city": "London",
+        "profilepicture": "https://th.bing.com/th/id/OIP.h4bGQdkOtbbhJTVi74qlngHaHa?w=191&h=191&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/alexjohnson",
+        "twitter": "https://twitter.com/alexjohnson",
+        "facebook": "https://www.facebook.com/alexjohnson",
+        "instagram": "https://www.instagram.com/alexjohnson",
+        "other": "https://www.behance.net/alexjohnson"
+    },
+    {
+        "fullName": "Emily Wilson",
+        "designation": "Marketing Specialist",
+        "emailaddress": "emilywilson@example.com",
+        "dob": "09/25/1992",
+        "contactnumber": "4567890123",
+        "city": "Sydney",
+        "profilepicture": "https://th.bing.com/th/id/OIP.w3owyywYOjMgZX7AzfkICwHaHa?w=191&h=191&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/emilywilson",
+        "twitter": "https://twitter.com/emilywilson",
+        "facebook": "https://www.facebook.com/emilywilson",
+        "instagram": "https://www.instagram.com/emilywilson",
+        "other": "https://www.behance.net/emilywilson"
+    },
+    {
+        "fullName": "David Lee",
+        "designation": "Data Analyst",
+        "emailaddress": "davidlee@example.com",
+        "dob": "03/12/1987",
+        "contactnumber": "7890123456",
+        "city": "San Francisco",
+        "profilepicture": "https://th.bing.com/th/id/OIP.xmVyd_u0_rR3QtA3DaeLoAHaHa?w=203&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/davidlee",
+        "twitter": "https://twitter.com/davidlee",
+        "facebook": "https://www.facebook.com/davidlee",
+        "instagram": "https://www.instagram.com/davidlee",
+        "other": "https://www.behance.net/davidlee"
+    },
+    {
+        "fullName": "Sarah Thompson",
+        "designation": "HR Manager",
+        "emailaddress": "sarahthompson@example.com",
+        "dob": "07/18/1995",
+        "contactnumber": "3456789012",
+        "city": "Toronto",
+        "profilepicture": "https://th.bing.com/th/id/OIP.noCIexpyde-akT0mqbw9mAHaJ4?w=152&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/sarahthompson",
+        "twitter": "https://twitter.com/sarahthompson",
+        "facebook": "https://www.facebook.com/sarahthompson",
+        "instagram": "https://www.instagram.com/sarahthompson",
+        "other": "https://www.behance.net/sarahthompson"
+    },
+    {
+        "fullName": "Michael Wilson",
+        "designation": "Software Developer",
+        "emailaddress": "michaelwilson@example.com",
+        "dob": "11/30/1983",
+        "contactnumber": "2345678901",
+        "city": "Berlin",
+        "profilepicture": "https://th.bing.com/th/id/OIP.vu0vSCKbbQ_LImwzBjjRVwHaH4?w=190&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/michaelwilson",
+        "twitter": "https://twitter.com/michaelwilson",
+        "facebook": "https://www.facebook.com/michaelwilson",
+        "instagram": "https://www.instagram.com/michaelwilson",
+        "other": "https://www.behance.net/michaelwilson"
+    },
+    {
+        "fullName": "Sophia Anderson",
+        "designation": "Content Writer",
+        "emailaddress": "sophiaanderson@example.com",
+        "dob": "06/14/1998",
+        "contactnumber": "8901234567",
+        "city": "Melbourne",
+        "profilepicture": "https://th.bing.com/th/id/OIP._kh35bPa3b1E-2I_0qvTTwHaHa?w=202&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/sophiaanderson",
+        "twitter": "https://twitter.com/sophiaanderson",
+        "facebook": "https://www.facebook.com/sophiaanderson",
+        "instagram": "https://www.instagram.com/sophiaanderson",
+        "other": "https://www.behance.net/sophiaanderson"
+    },
+    {
+        "fullName": "Daniel Brown",
+        "designation": "Project Manager",
+        "emailaddress": "danielbrown@example.com",
+        "dob": "04/06/1980",
+        "contactnumber": "6789012345",
+        "city": "Tokyo",
+        "profilepicture": "https://th.bing.com/th/id/OIP.laPCyx1S8ky_8oCDgkj5IgHaJ4?w=152&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/danielbrown",
+        "twitter": "https://twitter.com/danielbrown",
+        "facebook": "https://www.facebook.com/danielbrown",
+        "instagram": "https://www.instagram.com/danielbrown",
+        "other": "https://www.behance.net/danielbrown"
+    },
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "email": "johndoe@example.com",
+        "password": "johndoe123"
+    },
+    {
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "email": "janesmith@example.com",
+        "password": "janesmith123"
+    },
+    {
+        "firstname": "Alex",
+        "lastname": "Johnson",
+        "email": "alexjohnson@example.com",
+        "password": "alexjohnson123"
+    },
+    {
+        "firstname": "Emily",
+        "lastname": "Wilson",
+        "email": "emilywilson@example.com",
+        "password": "emilywilson123"
+    },
+    {
+        "firstname": "Daniel",
+        "lastname": "Brown",
+        "email": "danielbrown@example.com",
+        "password": "danielbrown123"
+    },
+    {
+        "firstname": "Sophia",
+        "lastname": "Anderson",
+        "email": "sophiaanderson@example.com",
+        "password": "sophiaanderson123"
+    },
+    {
+        "firstname": "Michael",
+        "lastname": "Wilson",
+        "email": "michaelwilson@example.com",
+        "password": "michaelwilson123"
+    },
+    {
+        "firstname": "Sarah",
+        "lastname": "Thompson",
+        "email": "sarahthompson@example.com",
+        "password": "sarahthompson123"
+    },
+    {
+        "firstname": "David",
+        "lastname": "Lee",
+        "email": "davidlee@example.com",
+        "password": "davidlee123"
+    }
+]
