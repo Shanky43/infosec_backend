@@ -13,8 +13,7 @@ const infosecSchema = Schema({
     facebook: { type: String },
     instagram: { type: String },
     other: { type: String },
-    // companydescription: { type: String },
-    // companyWebsite: { type: String }
+    userId: { type: String || Number, },
 }, {
     versionKey: false
 })

@@ -178,5 +178,25 @@
         "lastname": "Lee",
         "email": "davidlee@example.com",
         "password": "davidlee123"
+    },
+    {
+        "firstname": "Jessica",
+        "lastname": "Davis",
+        "email": "jessicadavis@example.com",
+        "password": "jessicadavis123"
+    },
+    {
+        "fullName": "Jessica Davis",
+        "designation": "Marketing Manager",
+        "emailaddress": "jessicadavis@example.com",
+        "dob": "07/26/1991",
+        "contactnumber": "6789012345",
+        "city": "London",
+        "profilepicture": "https://th.bing.com/th/id/OIP.xmVyd_u0_rR3QtA3DaeLoAHaHa?w=203&h=202&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "linkedin": "https://www.linkedin.com/in/jessicadavis",
+        "twitter": "https://twitter.com/jessicadavis",
+        "facebook": "https://www.facebook.com/jessicadavis",
+        "instagram": "https://www.instagram.com/jessicadavis",
+        "other": "https://www.behance.net/jessicadavis"
     }
 ]
