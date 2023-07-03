@@ -15,7 +15,7 @@ const infosecSchema = Schema({
     other: { type: String },
     userId: { type: String || Number, },
 }, {
-    versionKey: false
+    versionKey: true
 })
 
 

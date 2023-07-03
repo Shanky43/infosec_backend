@@ -52,7 +52,8 @@ userRouter.post("/login", async (req, res) => {
                     res.status(200).json({
                         message: "Login Successfull",
                         token,
-                        userName: user.firstname,
+                        userName: user.firstname + " " + user.lastname,
+                        email,
                         userId: user._id,
                     });
 
@@ -68,5 +69,37 @@ userRouter.post("/login", async (req, res) => {
         res.status(500).json({ error: error.message })
     }
 })
+userRouter.patch("/:userId/password", async (req, res) => {
+    try {
+      const { userId } = req.params;
+      const { oldPassword, newPassword } = req.body;
+  
+      // Find the user by userId
+      const user = await userModel.findById(userId);
+  
+      if (!user) {
+        return res.status(404).json({ message: "User not found" });
+      }
+  
+      // Compare the entered old password with the stored hashed password
+      const passwordMatch = await bcrypt.compare(oldPassword, user.password);
+  
+      if (!passwordMatch) {
+        return res.status(401).json({ message: "Old password is incorrect" });
+      }
+  
+      // Hash the new password
+      const hashedPassword = await bcrypt.hash(newPassword, 5);
+  
+      // Update the user's password
+      user.password = hashedPassword;
+      await user.save();
+  
+      res.status(200).json({ message: "Password updated successfully" });
+    } catch (error) {
+      res.status(500).json({ error: error.message });
+    }
+  });
+  
 
 module.exports = { userRouter };

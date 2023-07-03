@@ -8,7 +8,7 @@ const userSchema = Schema(
         password: { type: String, required: true }
     },
     {
-        versionKey: false
+        versionKey: true
     })
 
 const userModel = model("users", userSchema);
